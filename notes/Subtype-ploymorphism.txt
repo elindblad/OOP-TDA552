@@ -1,0 +1,3 @@
+A reference variable always has a static type, which is always the same.
+
+
